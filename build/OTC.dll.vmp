@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Document Version="2">
+    <Protection InputFileName="OTC.dll" Options="857032" VMCodeSectionName=".fuckyou" WaterMarkName="CHENWEIJIE">
+        <Messages />
+        <Folders />
+        <Procedures>
+            <Procedure MapAddress="EntryPoint" Options="8192" CompilationType="2" />
+        </Procedures>
+        <Objects />
+    </Protection>
+    <DLLBox>
+        <Folders />
+    </DLLBox>
+    <Script />
+    <LicenseManager ProductCode="Vup0eDeGIyA=" Algorithm="RSA" Bits="2048" PublicExp="AAEAAQ==" PrivateExp="cBs8DuhXnqYbhfuSlwWTXmIuQgbm03pWH/UfU2Eg3WLFXz7+RaxVxB7PMBbSiLZ2NRfkgtbP3OBlD5IBC4KfgTHSxOKm0h96do0NKV0IeyRPOa4BV+pKM2pOt35EUPTMM85X+O8sFM0MFBHSgb3QXZsJDEDMLH7AVREu0w1z3eZwbSChomNTVyq/NEYKXi+oVQZXMLu5jtwtixi4xfhdbECSwmbA2Pem/7bmTZDoVJmloT61zyTPTCDcRR/VfP28EKZnW6GvYgbMnOQKZGuM/6J3vthGRPOIqMjxJeLFZVUqVaD0vrgHJPqNH4Hs09lkBnNUFV/Nh7ZGwdtqGNoanQ==" Modulus="4W8T7dexUS21jTt9aJr7FyEVB36u4peo7C0U5+mZg07Yi3mZLyhsx1TJ3O+IecpnuowpBjE1c0nwHfeRklOtveM8Jpg15BH6B83SCUU1ZC4cf2KcaB8/cSN3TpShJUfHky6eBRFL8vg9Bp709dyfSxyq8verVYIXjDLmKr+q4QGfoWdICGOLvy8zwfzgArYCJeVszgDyja+6km8ycuZ3TGUQF2DTS1q+j5P6y5cTAHZvE/GO7A9vW2xSYSNtR8J/+yBB+qlLX/20PTWN36XjOXK3RZgWQmE+8Ug48QzchWynlh28tvZN0vuPNzn6i9m/XXMxk2xuiFxwXAQfhC3Z+Q==">
+        <License Date="2020-05-30" CustomerName="CHEN" SerialNumber="F1Uw2HeznNQYSHVEipHXuZ4GwZE7lKzSu9O8lBscLRQNuz/pOeTeaRNCro/r0tDuFnx+Ur3Jp4IEk3/AnRHzlh8UuZRPjfIy9JlonXJeqcjZRLI0FYpFRYGmimRuqmZU+grLlCoUH7Sy0OYWeSgyToMv1gLxjH0t5yEn5ocCXXr1uPSKolLXEMgaB3cCuKwfR1MJocQupwZyg4NVxEK0TzHzqiW/qhSawFNuqP0mLRq+5oJVN23aSpMP4D5ECzexLQNGvqxoK6MPmy2+D7sGMN/3kg5gCovvWCMfEFM7dxNA7ix706uAyug3Wn4/9LGCjPxVkXcZcRVSC2pVZuJ+dw==" />
+    </LicenseManager>
+</Document>
